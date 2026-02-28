@@ -29,6 +29,9 @@ Based on the defined business problem, the analysis follows a cyclical process t
 5. **Report Writing:** Finalizing the analysis with a comprehensive report to aid stakeholder decision-making.
 
 
+   There is 2-3 more dataset file for the project that can't be uploaded because of large size 
+
+
 
 ## 📂 Repository Structure
 - `Vendor_Performance_Cleaning.ipynb`: Python scripts for data cleaning and EDA.
